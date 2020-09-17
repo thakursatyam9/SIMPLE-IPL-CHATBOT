@@ -1,6 +1,6 @@
 # SIMPLE-IPL-CHATBOT
 A simple chatbot where you can get basic information about ipl 2020
-
+This is built on Java-swing.
 
 This is IPL CHAT BOT.
 Here we can get details regarding IPL-2020
